@@ -1,6 +1,7 @@
 {
   "name": "medicabuyerbackend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Medicabuyer Node.js API project",
   "main": "server.js",
   "scripts": {
